@@ -1,7 +1,13 @@
 rterwttertreterrwerwe"hey" 
+<<<<<<< HEAD
 new edit
 
 
 HAHAHAHHAHAHRFERERE
 
 HAHAHAHAHHAHA
+=======
+
+
+eqweqweqweqweqweqw
+>>>>>>> 88639ed81b3363df2a9aeb517a60a6601f69fdad
